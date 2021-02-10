@@ -3,6 +3,8 @@
 	email = 54734556+yuheem@users.noreply.github.com
 [github]
 	user = yuheem
+[core]
+	excludesfile = ~/.gitignore
 [push]
 	default = simple
 [color]
