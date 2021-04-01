@@ -4,7 +4,7 @@
 [github]
 	user = yuheem
 [core]
-	excludesfile = ~/.gitignore
+	excludesFile = /Users/yuheem/.gitignore
 [push]
 	default = simple
 [color]
@@ -25,5 +25,5 @@
 	ba = branch -a
 	bm = branch --merged
 	bn = branch --no-merged
-	lg = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(auto)%d%C(reset)'
+	lg = log --graph --abbrev-commit --decorate 
 	
